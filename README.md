@@ -2,6 +2,8 @@
 
 [studying from this link](https://learn.microsoft.com/pt-br/aspnet/core/tutorials/first-web-api?view=aspnetcore-9.0&tabs=visual-studio-code)
 
+[And this](https://dotnettutorials.net/lesson/basic-authentication-in-asp-net-core-web-api/)
+
 * Creating a project
 
 ```dotnet
